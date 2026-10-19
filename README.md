@@ -1,6 +1,6 @@
 # Hi, I'm Andy Carroll
 
-I'm co-founder of Accelerator X, an AI transformation consultancy. I help organisations work out where AI will actually change their numbers, then build it into how they work.
+I'm co-founder of [Accelerator X](https://accelerator-x.ai), an AI transformation consultancy. I help organisations work out where AI will actually change their numbers, then build it into how they work.
 
 ---
 
@@ -28,7 +28,8 @@ I keep a few side projects running because building is how I learn what works.
 
 If you're weighing up where AI fits in your business and want a second opinion, I'm happy to talk.
 
-- Website: [heyandycarroll.com](https://www.heyandycarroll.com)
+- Accelerator X: [accelerator-x.ai](https://accelerator-x.ai)
+- Personal site: [heyandycarroll.com](https://www.heyandycarroll.com)
 - LinkedIn: [linkedin.com/in/heyandycarroll](https://www.linkedin.com/in/heyandycarroll/)
 
 ---
