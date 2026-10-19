@@ -1,49 +1,36 @@
-# 👋 Hi, I'm Andy Carroll
+# Hi, I'm Andy Carroll
 
-I’m passionate about harnessing AI, building innovative products, and helping teams unlock their full potential.
-
----
-
-## 🚀 About Me
-
-- 🏆 **Product & AI Strategist & Consultant** with 16+ years as a product leader across high-growth SaaS, fintech, banking, and payments start-ups and scale-ups.
-- 🤖 Helping organisations and teams harness the enormous value of AI tools and systems to accelerate performance, boost efficiency and maximise impact.
-- 🛠️ **Self-taught Developer & Tinkerer** — I love experimenting, building, and deploying a wide range of side projects, especially with the power of AI-assisted tools.
-- 🌍 Always building to learn: I enjoy exploring new stacks, integrating AI features, and sharing what I discover.
+I'm co-founder of Accelerator X, an AI transformation consultancy. I help organisations work out where AI will actually change their numbers, then build it into how they work.
 
 ---
 
-## 🛠️ Skills & Focus
+## What I do
 
-- **Product Leadership & Strategy**
-- **AI/ML Product Development**
-- **SaaS, Fintech, and Payments Expertise**
-- **Full-Stack Experimentation** (self-taught, always learning)
-- **AI-Enabled Features & Automation**
+At Accelerator X I work with leadership teams on AI implementation and product strategy. Engagements usually start with a workshop or a diagnostic to find the few places where automation or AI-assisted work pays back fastest, and can grow into a longer transformation programme where we build and embed the systems alongside the client's team.
 
----
+I'm hands-on. I build agentic automations in n8n, design Claude-based workflows and prompts, write custom skills and MCP integrations, and wire AI into CRM and data enrichment. I care about leverage and outcomes, so I'm more interested in what a system saves or earns than in which model sits underneath it.
 
-## 🌟 Featured Ventures & Projects
-
-- [Talent Aisle](https://talentaisle.com) — AI-powered solutions for talent acquisition teams.
-- [Zazen Focus](https://zazenfocus.com/) — Chrome extension for deep work and focus.
-- [SportReport](https://www.sportreport.pro/) — Funny AI-generated sports reports side project.
-- [Personal Website](https://www.heyandycarroll.com) — My hub for thoughts, projects, and more.
+Before this I spent 16+ years as a product leader across high-growth SaaS, fintech, banking and payments start-ups and scale-ups. That background shapes how I approach AI work: start with the problem, test the assumptions early, and ship something people use.
 
 ---
 
-## 📫 Connect with Me
+## Things I've built
 
-- 🌐 [heyandycarroll.com](https://www.heyandycarroll.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/heyandycarroll/)
-- 🐦 [X (Twitter)](https://x.com/aislepartnersai)
+I keep a few side projects running because building is how I learn what works.
 
----
-
-## ⚡ Philosophy
-
-> “Build to learn. Experiment to discover. Share to grow.”
+- [Talent Aisle](https://talentaisle.com): AI-powered tools for talent acquisition teams.
+- [Zazen Focus](https://zazenfocus.com/): a Chrome extension for deep work and focus.
+- [SportReport](https://www.sportreport.pro/): funny AI-generated sports reports.
 
 ---
 
-Feel free to explore my projects, connect, or reach out about AI, product strategy, or collaboration ideas.
+## Get in touch
+
+If you're weighing up where AI fits in your business and want a second opinion, I'm happy to talk.
+
+- Website: [heyandycarroll.com](https://www.heyandycarroll.com)
+- LinkedIn: [linkedin.com/in/heyandycarroll](https://www.linkedin.com/in/heyandycarroll/)
+
+---
+
+> Build to learn. Experiment to discover. Share to grow.
