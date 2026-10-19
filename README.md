@@ -16,7 +16,7 @@ Before this I spent 16+ years as a product leader across high-growth SaaS, finte
 
 ## Another venture
 
-Alongside Accelerator X, I'm building and running [Talent Aisle](https://talentaisle.com), a separate venture creating AI-powered tools for talent acquisition teams.
+Alongside Accelerator X, I'm building and running [Talent Aisle](https://talentaisle.com), a separate venture helping fast-growth businesses build AI-powered talent engines that find, hire, onboard and retain the best people for far less.
 
 ---
 
