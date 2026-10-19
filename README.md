@@ -16,11 +16,9 @@ Before this I spent 16+ years as a product leader across high-growth SaaS, finte
 
 ## Things I've built
 
-I keep a few side projects running because building is how I learn what works.
+I keep a side project running because building is how I learn what works.
 
 - [Talent Aisle](https://talentaisle.com): AI-powered tools for talent acquisition teams.
-- [Zazen Focus](https://zazenfocus.com/): a Chrome extension for deep work and focus.
-- [SportReport](https://www.sportreport.pro/): funny AI-generated sports reports.
 
 ---
 
